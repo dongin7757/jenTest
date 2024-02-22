@@ -11,7 +11,6 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 <div>Hi Jenkins Deployment</div>
-
-asdasdasdsadasd
+<div>Final Project execution</div>
 </body>
 </html>
